@@ -6,7 +6,7 @@
 
     body {
       font-family: 'Segoe UI', sans-serif;
-      background-color: hsl(290, 57%, 61%);
+      background-color: hsl(332, 100%, 50%);
       color: #000000;
     }
 
@@ -69,8 +69,8 @@
       display: block;
       width: 100%;
       padding: 15px;
-      background-color: #007bff;
-      color: white;
+      background-color: #268fff;
+      color: rgb(3, 2, 2);
       text-align: center;
       text-decoration: none;
       border-radius: 5px;
@@ -79,5 +79,5 @@
     }
 
     .btn:hover {
-      background-color: #7cdfda;
+      background-color: #0ca8a1;
 }
